@@ -2,7 +2,7 @@
 
 > Tecnologias: HTML, CSS, JavaScript e Vue 3
 
-> Desenvilvido durante curso de Desenvolvimento Web
+> Em Desenvolvimento / curso de Desenvolvimento Web
 
 ### Descrição do Projeto
 
